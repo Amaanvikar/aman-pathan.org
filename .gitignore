@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+.cache/
+public/
+
+# Gatsby
+.gatsby/
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.*
