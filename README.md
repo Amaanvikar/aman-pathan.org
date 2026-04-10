@@ -1,7 +1,6 @@
 # Aman Pathan — Portfolio
 
-Personal portfolio website built with **Gatsby**, **React**, and **Styled Components**.  
-Design inspired by [Brittany Chiang's v4](https://brittanychiang.com) — same tech stack as the reference portfolio.
+Personal portfolio website built with **Gatsby**, **React**, and **Styled Components**.
 
 Live URL → **https://Amaanvikar.github.io**
 
