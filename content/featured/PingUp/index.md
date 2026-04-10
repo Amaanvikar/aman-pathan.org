@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-A full-stack YouTube video summarizer that fetches video data, processes transcripts, and generates AI-based summaries — enabling faster content understanding and improving user productivity significantly.
+A modern social networking web application that allows users to interact through real-time chat, posts, stories, and friend connections. Powered by MERN, Clerk authentication, and ImageKit, it ensures fast, secure, and engaging communication.

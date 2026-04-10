@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-A full-stack AI chatbot built as a ChatGPT clone using the MERN stack, implementing real-time prompt-response flow, Google Gemini API integration, and scalable frontend-backend communication architecture.
+A full-stack AI chatbot built a MERN stack AI chatbot app enabling user authentication and AI-powered text (via Google Gemini) and image generation (via ImageKit), similar to ChatGPT.

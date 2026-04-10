@@ -1,10 +1,8 @@
-import ScrollReveal from 'scrollreveal';
-
 const isSSR = typeof window === 'undefined';
 
 const sr = isSSR
   ? null
-  : ScrollReveal({
+  : require('scrollreveal').default({
       origin: 'bottom',
       distance: '20px',
       duration: 500,
